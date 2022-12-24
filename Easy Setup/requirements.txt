@@ -14,3 +14,4 @@ s2sphere==0.2.4
 gpsoauth==0.3.0
 protobuf-to-dict==0.1.0
 flask-cors==2.1.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
